@@ -1,6 +1,6 @@
 # Reimplementation of the paper: MolGAN
-This is my own implementation of MolGAN.
+This program is a reimplementation of the following paper
 
-Link: https://arxiv.org/abs/1805.11973
+https://arxiv.org/abs/1805.11973
 
 Reference material: https://github.com/yongqyu/MolGAN-pytorch
