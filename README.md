@@ -1,4 +1,4 @@
-# Reimplementation of the paper: MolGAN
+# My MolGAN
 This program is a reimplementation of the following paper
 
 https://arxiv.org/abs/1805.11973
